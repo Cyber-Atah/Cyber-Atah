@@ -1,16 +1,37 @@
-## Hi there 👋
+Cyber-Atah | Cybersecurity Portfolio
 
-<!--
-**Cyber-Atah/Cyber-Atah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my cybersecurity learning and practical projects portfolio.
 
-Here are some ideas to get you started:
+I'm developing my cybersecurity knowledge through structured study, hands-on labs, technical documentation, and security-focused projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Learning
+
+- Google Cybersecurity Certificate — In Progress
+- Cybersecurity fundamentals
+- Linux security fundamentals
+- Network security
+- Security monitoring and analysis
+- Threat detection and incident response
+
+Practical Labs
+
+I document my lab objectives, tools, procedures, results, challenges, and lessons learned.
+
+Projects and lab reports will be added as I complete them.
+
+Tools and Technologies
+
+- Linux
+- Wireshark
+- Nmap
+- SQL
+- Python
+- Security analysis tools
+
+These are learning areas and intended tools; I'll document my actual use and experience as I practise them.
+
+My Goal
+
+To develop practical cybersecurity skills, build verifiable security projects, and grow into a cybersecurity professional.
+
+This portfolio records my progress, practical experience, and achievements.
